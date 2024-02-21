@@ -1,0 +1,20 @@
+{
+  "name": "react_use_is_mobile",
+  "version": "1.3.1",
+  "description": "A simple React hook to detect mobile screens.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "mobile"
+  ],
+  "author": "Erwan Rouault",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
